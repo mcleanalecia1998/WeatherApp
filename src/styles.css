@@ -1,0 +1,93 @@
+
+
+body {
+    background-color: lightblue;
+    width: 700px; 
+    height: 500px;
+    
+}
+
+
+.search-form {
+    position: relative;
+    text-align: right;
+    width: 700px;
+    background-color: white;
+   
+}
+
+#inputText {
+    width: auto;
+    padding: 5px;
+}
+
+#button {
+    padding: 5px 10px;
+    width: auto;
+}
+
+
+h1 {
+    font-size: 80px;
+    padding: 10px 0 0 10px;
+    position: absolute;
+    color: palevioletred;
+}
+
+h2 {
+    position: relative;
+    text-align: right;
+    font-size: 50;
+    padding: 140px 40px 0 0;
+}
+
+h3 {
+    position: relative;
+    text-align: right;
+    font-size: 50;
+    padding: 10px 10px 0 0 ;
+}
+
+.today {
+    position: relative;
+    display: flex;
+    justify-content: right;
+    padding: 20px 50px 20px 0;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.icon {
+    font-size: 100px;
+}
+
+
+.weather-elements {
+    position: relative;
+    font-size: 20px;
+    top: -300px;
+        
+}
+
+
+ul {
+    list-style: none;
+}
+
+
+.card {
+    outline: none;
+    background-color: white;
+    
+}
+.card-title
+{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    
+}
+
+footer {
+    text-align: center;
+}
